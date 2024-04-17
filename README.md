@@ -1,2 +1,2 @@
 # ETL-com-Python
-Comandos de ETL para tratamento de dados.
+Prática de ETL com python para tratamento de dados.
